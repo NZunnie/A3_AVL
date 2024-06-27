@@ -1,0 +1,12 @@
+FileName,SearchTime(ms)
+1000-words.txt,0.7183
+5000-words.txt,0.0422
+10000-words.txt,0.015
+15000-words.txt,0.0185
+20000-words.txt,0.0178
+25000-words.txt,0.0151
+30000-words.txt,0.1102
+35000-words.txt,0.0162
+40000-words.txt,0.0152
+45000-words.txt,0.1154
+50000-words.txt,0.1402
